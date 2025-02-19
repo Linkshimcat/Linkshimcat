@@ -28,6 +28,7 @@
 ![image](https://github.com/user-attachments/assets/4cd0d1f8-ba20-44df-ac13-6c126dc49128)
 
 - What is favorite?
-  I like Catche Teenieping ![image](https://github.com/user-attachments/assets/8d23eda5-91d7-4827-9fd7-d80d6ddfccb6)
+  I like Catche Teenieping
+ ![image](https://github.com/user-attachments/assets/8d23eda5-91d7-4827-9fd7-d80d6ddfccb6)
 Plase give me money ;)
 [Ko-fi](https://ko-fi.com/linkshimcat)
