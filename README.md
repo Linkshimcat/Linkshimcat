@@ -1,2 +1,3 @@
-# Linkshimcat
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Linkshimcat Read about me!!
+
+[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,windows,haxeflixel,robloxstudio,py)](https://skillicons.dev)
