@@ -1,5 +1,5 @@
 # 😸Linkshimcat Read about me!!
-# I'm from south korean! (16+ student)
+# I'm from south korean! (17+ student)
 
 # My Platform and skills.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,windows,haxeflixel,robloxstudio,py,cpp)](https://skillicons.dev)
