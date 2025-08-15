@@ -34,5 +34,8 @@
  ✦[🔗Link](https://www.roblox.com/ko/users/7979132682/profile)(Linkshimcat)
  ✦[🔗Link](https://www.roblox.com/ko/users/4343007740/profile)(Daruda)
  ✦[🔗Link](https://www.roblox.com/ko/communities/34357059/SL-Q-Studios#!/about)(Roblox Group)
- 
+
+ # Portfolio
+ ✦[🔗Link](https://www.notion.so/2504124ceacc806b8233c1f990a4ff8f)(My Portfolio Page)
+
 ![추론🤔, 심층, 검색🔍](https://github.com/user-attachments/assets/0c256914-310f-4af6-85ea-a9ff7af96514)
