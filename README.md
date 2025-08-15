@@ -17,12 +17,14 @@
 
 ✦ |🧩 My ALL Project 
 ## ✦ |😺Games
-    ✦Outde Games
-    ✦Subway
-    ✦Memory Recovery: Framgents
+    ✦ Hallqueen of hell
+    ✦ Outde-Games
+    ✦ Subway
+    ✦ Memory Recovery: Framgents
+    ✦ ????????? ??????
 ## ✦ |😺Design
-    ✦Linkcat Store
-    ✦LINK AI
+    ✦ Linkcat Store
+    ✦ LINK AI
 ---
 # ✦ |🔗 Join our Communitys!!✦
  ✦[🔗Link](https://www.youtube.com/@Linkshimcat)(Youtube)
