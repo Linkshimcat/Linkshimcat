@@ -15,7 +15,7 @@
     ✦Linkcat Store
     ✦LINK AI
 ---
-# ✦[🔗/🔧]Join our Communitys!!✦
+# ✦ |🔗 Join our Communitys!!✦
  ✦[🔗Link](https://www.youtube.com/@Linkshimcat)(Youtube)
  
  ✦[🔗Link](https://discord.gg/3zutjxy5f8)(Discord)
