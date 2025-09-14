@@ -25,6 +25,7 @@
 ## ✦ |😺Design
     ✦ Linkcat Store
     ✦ LINK AI
+    ✦ Caply: NO Cap [Ios APP]
 ---
 # ✦ |🔗 Join our Communitys!!✦
  ✦[🔗Link](https://www.youtube.com/@Linkshimcat)(Youtube)
