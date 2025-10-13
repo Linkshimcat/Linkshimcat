@@ -1,6 +1,5 @@
 # ✦😸Linkshimcat Read about me!! 
-
-
+<img width="1000" height="326" alt="Task skill bar" src="https://github.com/user-attachments/assets/b83d05c4-e79b-4ce9-80d4-6d161a56b52e" />
 
 
 ## ✦ |🧪 My Platform and skills.
