@@ -32,4 +32,5 @@
  # ✦😺Portfolio
  ✦[🔗Link](https://www.notion.so/2504124ceacc806b8233c1f990a4ff8f)(My Portfolio Page)
 
-![추론🤔, 심층, 검색🔍](https://github.com/user-attachments/assets/0c256914-310f-4af6-85ea-a9ff7af96514)
+![Berak it](https://github.com/user-attachments/assets/8f0e1c21-4121-46dc-aabb-e77aeb475759)
+
