@@ -18,12 +18,6 @@
     ✦ Caply: NO Cap [Ios APP]
     ✦ 멀바[Malva]: 슈퍼펫 앱 [APP]
 ---
-# ✦ |🔗 Join our Communitys!!✦
- 
- ✦[🔗Link](https://www.roblox.com/ko/users/7979132682/profile)(Linkshimcat)
- ✦[🔗Link](https://www.roblox.com/ko/users/4343007740/profile)(Daruda)
- ✦[🔗Link](https://www.roblox.com/ko/communities/34357059/SL-Q-Studios#!/about)(Roblox Group)
-
  # ✦😺Portfolio
  ✦[🔗Link](https://www.notion.so/2504124ceacc806b8233c1f990a4ff8f)(My Portfolio Page)
 
