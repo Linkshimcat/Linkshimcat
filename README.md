@@ -1,7 +1,7 @@
 # ✦😸Linkshimcat Read about me!! 
 
 ## ✦ |🧪 My Platform and skills.
-[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,haxeflixel,robloxstudio,py,figma,cpp)](https://skillicons.dev)
+[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,py,figma)](https://skillicons.dev)
 
 ---
 
