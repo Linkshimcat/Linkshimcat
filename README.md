@@ -1,6 +1,4 @@
 # ✦😸Linkshimcat Read about me!! 
-<img width="1000" height="326" alt="Task skill bar" src="https://github.com/user-attachments/assets/b83d05c4-e79b-4ce9-80d4-6d161a56b52e" />
-
 
 ## ✦ |🧪 My Platform and skills.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,haxeflixel,robloxstudio,py,figma,cpp)](https://skillicons.dev)
@@ -21,9 +19,6 @@
     ✦ 멀바[Malva]: 슈퍼펫 앱 [APP]
 ---
 # ✦ |🔗 Join our Communitys!!✦
- ✦[🔗Link](https://www.youtube.com/@Linkshimcat)(Youtube)
- 
- ✦[🔗Link](https://discord.gg/3zutjxy5f8)(Discord)
  
  ✦[🔗Link](https://www.roblox.com/ko/users/7979132682/profile)(Linkshimcat)
  ✦[🔗Link](https://www.roblox.com/ko/users/4343007740/profile)(Daruda)
