@@ -1,19 +1,18 @@
-# ✦😸Linkshimcat Read about me!! 
-
+# ✦😸Linkshimcat - Hello Everyone!👋
 ## ✦ |🧪 My Platform and skills.
-[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,py,figma)](https://skillicons.dev)
+[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,figma,css,html)](https://skillicons.dev)
 
 ---
 
-## ✦ |😺Games
+## ✦ |🎮Games
     ✦ Hallqueen of hell (Tower)
     ✦ Outde-Games
     ✦ Subway
     ✦ Memory Recovery:Fragments
 
-## ✦ |😺Design
-    ✦ MRF (RBXL Gui)
-    ✦ Linkcat Store
+## ✦ |🎨Design
+    ✦ MRF(RBXL Gui)
+    ✦ Linkcat_Store(RBXL Gui)
     ✦ LINK AI
     ✦ Caply: NO Cap [Ios APP]
     ✦ 멀바[Malva]: 슈퍼펫 앱 [APP]
