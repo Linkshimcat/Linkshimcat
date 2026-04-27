@@ -1,4 +1,4 @@
-# ✦😸Linkshimcat - Hello Everyone!👋
+# ✦😸Hello Everyone!👋
 ## ✦ |🧪 My Platform and skills.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,figma,css,html)](https://skillicons.dev)
 
