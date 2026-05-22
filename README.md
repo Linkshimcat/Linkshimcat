@@ -1,4 +1,4 @@
-# ✦😸Hello Everyone!👋
+# Hello Everyone!👋 
 ## ✦ |🧪 My Platform and skills.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,css,html,figma,ps)](https://skillicons.dev)
 
