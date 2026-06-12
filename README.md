@@ -1,13 +1,12 @@
 # Hello Everyone!👋 
-## ✦ |🧪 My Platform and skills(Learning).
-[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,robloxstudio,css,html,figma,ps)](https://skillicons.dev)
-
----
+### ✦ | My Platform.
+[![My Platform](https://skillicons.dev/icons?i=github,discord,notion,vscode,cloudflare)](https://skillicons.dev)<hr>
+### ✦ | My Skills[Studying].
+[![My Skills](https://skillicons.dev/icons?i=java,robloxstudio,flutter,html,css,js,ps,figma)](https://skillicons.dev)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{Linkshimcat}"/>
-</a><br><hr>
-✦😺Portfolio
-(https://www.notion.so/2504124ceacc806b8233c1f990a4ff8f)
+</a>
+<hr><br>
 
 ![Berak it](https://github.com/user-attachments/assets/8f0e1c21-4121-46dc-aabb-e77aeb475759)
 
