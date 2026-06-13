@@ -1,4 +1,6 @@
 # Hello Everyone!👋 
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv3mrfFdBHv8%26list%3DRDv3mrfFdBHv8%26start_radio%3D1&theme=stream&variant=green)](https://www.youtube.com/watch?v=v3mrfFdBHv8&list=RDv3mrfFdBHv8&start_radio=1)<hr>
+
 ### ✦ | My Platform.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,vscode,cloudflare)](https://skillicons.dev)<hr>
 ### ✦ | My Skills[Studying].
@@ -9,4 +11,5 @@
 <hr><br>
 
 ![Berak it](https://github.com/user-attachments/assets/8f0e1c21-4121-46dc-aabb-e77aeb475759)
+
 
