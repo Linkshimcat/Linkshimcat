@@ -3,7 +3,7 @@
 
 ### ✦ | My Platform.
 [![My Platform](https://skillicons.dev/icons?i=github,discord,notion,vscode,cloudflare)](https://skillicons.dev)<hr>
-### ✦ | My Tach Stack[Studying].
+### ✦ | My Tech Stack[Studying].
 [![My Skills](https://skillicons.dev/icons?i=java,robloxstudio,flutter,html,css,js,python,ps,figma)](https://skillicons.dev)
 <br><br>
 <a href="https://github.com/devxb/gitanimals">
