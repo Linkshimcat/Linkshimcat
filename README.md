@@ -11,6 +11,4 @@
 </a>
 <hr><br>
 
-![Berak it](https://github.com/user-attachments/assets/8f0e1c21-4121-46dc-aabb-e77aeb475759)
-
 
